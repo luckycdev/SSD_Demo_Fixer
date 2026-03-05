@@ -7,6 +7,12 @@ Support: https://discord.gg/AQ4sDF6Mkz
 - Put [the mod](https://github.com/luckycdev/SSD_Demo_Fixer/releases/latest) in the newly created Mods/ folder in the Slowly Sliding Ducks Demo game files
 - Run the game!
 
+# Features
+- Game selector to play solo
+- Restores main menu buttons
+- Press <code>R</code> to restart
+- Press <code>0</code> to return to main menu
+
 # Building
 - Download [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/latest) (these 2 steps are to get the required dependencies for building)
   - requires [Microsoft Visual C++ 2015-2019 Redistributable 64 Bit](https://aka.ms/vs/16/release/vc_redist.x64.exe) and [dotnet x64 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0#runtime-desktop-6.0.19)
