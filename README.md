@@ -20,8 +20,8 @@ Support: https://discord.gg/AQ4sDF6Mkz
 - *Download [MelonLoader](https://github.com/LavaGang/MelonLoader/releases/latest)
   - requires [Microsoft Visual C++ 2015-2019 Redistributable 64 Bit](https://aka.ms/vs/16/release/vc_redist.x64.exe) and [dotnet x64 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0#runtime-desktop-6.0.19)
 - *Install MelonLoader 0.7.2 on Slowly Sliding Ducks Demo
-- Install [dotnet x64 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - *Run SlowlySlidingDucks.exe once and let it load to generate .dll files
+- Install [dotnet x64 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - Install [Visual Studio 2022 Community](https://aka.ms/vs/17/release/vs_community.exe)
 - Edit <code>SSD_Demo_Fixer.csproj</code> to change your <code>GameDir</code> if needed (line 11 of <code>SSD_Demo_Fixer.csproj</code>)
 - Open <code>SSD_Demo_Fixer.csproj</code> with Visual Studio 2022
