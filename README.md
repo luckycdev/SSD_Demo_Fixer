@@ -19,7 +19,7 @@ Support: https://discord.gg/AQ4sDF6Mkz
 - Install MelonLoader 0.7.2 on Slowly Sliding Ducks Demo (these 2 steps are to get the required dependencies for building)
 - Install [dotnet x64 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - Install [Visual Studio 2022 Community](https://aka.ms/vs/17/release/vs_community.exe)
-- Edit the csproj to change your <code>GameDir</code> if needed (line 11 of <code>SSD_Demo_Fixer.csproj</code>)
-- Open <code>SSD_Demo_Fixer.csproj</code> in Visual Studio 2022
+- Edit <code>SSD_Demo_Fixer.csproj</code> to change your <code>GameDir</code> if needed (line 11 of <code>SSD_Demo_Fixer.csproj</code>)
+- Open <code>SSD_Demo_Fixer.csproj</code> with Visual Studio 2022
 - Click Build at the top and click Build Solution
 - Your mod file should be located at <code>SSD_Demo_Fixer\bin\Debug\net6.0\win-x64\SSD_Demo_Fixer.dll</code>
